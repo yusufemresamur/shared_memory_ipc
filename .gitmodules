@@ -1,0 +1,3 @@
+[submodule ".devcontainer"]
+	path = .devcontainer
+	url = https://gitlab.com/yusufemresamur/cpp-devcontainer.git
